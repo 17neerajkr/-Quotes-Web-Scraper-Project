@@ -125,14 +125,9 @@ Adding automation & error handling
 🧑‍💻 Author
 
 
-Neeraj Singh
+Neeraj Kumar
 
 GitHub: https://github.com/17neerajkr
-
-
-LinkedIn: (Add link)
-
-
 
 ⭐ Support
 
@@ -151,6 +146,7 @@ If you like this project, give it a Star 🌟 on GitHub!
 📌 Multi-page scraping upgrade code
 
 Just tell me **"add badges"** or **"add advanced version"** and I’ll update it. 😊
+
 
 
 
